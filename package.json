@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-monkeyfe",
+  "version": "1.1.3",
+  "description": "eslint Config  for monkey fe team.s",
+  "author": "monkey <1400623471@qq.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkey01127/eslint-config-monkeyfe.git"
+  },
+  "keywords": [
+    "eslint",
+    "monkeyfe"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monkey01127/eslint-config-monkeyfe/issues"
+  },
+  "homepage": "https://github.com/monkey01127/eslint-config-monkeyfe#readme",
+  "dependencies": {}
+}
