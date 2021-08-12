@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-monkeyfe",
-  "version": "1.1.3",
+  "version": "0.0.3",
   "description": "eslint Config  for monkey fe team.s",
   "author": "monkey <1400623471@qq.com>",
   "main": "index.js",
